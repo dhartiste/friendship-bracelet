@@ -93,33 +93,12 @@ export default class TitleScene extends Scene {
     }
 
     start() {
-
-        //let n:number = -1;
         let a:number = 0;
-        
-        // todo: this nested for loop can be rewritten as a single for loop over this.levels[]
-        // and we can get rid of n:
-        // like this:
-        /*
-        this.levels.forEach((element, index) => {
-            //
-        });
-        */
 
-        this.allLevels.forEach = (element, index) => {
+        this.allLevels.forEach((element, index) => {
             a = 1-index*0.07;
             Tween.get(element).wait(100*index).to({alpha:a},a*1200);
-        }
-        /*
-        for (let index = 0; index < 5; index++) {
-
-            this.colors.forEach(element => {
-                n++;
-                a = 1-n*0.07;
-                Tween.get(this.allLevels[n]).wait(100*n).to({alpha:a},a*1200);
-            });
-        }
-        */
+        });
 
         this.btnPink.buttonMode = true;
         this.btnPink.interactive = true;

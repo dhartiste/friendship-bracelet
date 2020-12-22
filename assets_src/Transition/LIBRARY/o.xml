@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="o" itemID="5c23c60a-000002cc" symbolType="graphic" lastModified="1545849205">
+  <timeline>
+    <DOMTimeline name="o">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-132 -179S1[-79 -238 0 -238!0 -238[78 -238 130 -178!130 -178[182 -119 182 -4!182 -4[182 119 130 179!130 179[78 238 0 238!0 238[-79 238 -132 179!-132 179[-184 119 -184 0!-184 0[-184 -120 -132 -179!-211 241[-131 325 0 325!0 325[81 325
+ 150 287!150 287[219 249 255 180!255 180[291 111 291 -9!291 -9[291 -157 209 -241!209 -241[128 -325 0 -325!0 -325[-116 -325 -196 -256!-196 -256[-292 -173 -292 0!-292 0[-292 157 -211 241"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

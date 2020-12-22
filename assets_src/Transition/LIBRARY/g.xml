@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="g" itemID="5c23c627-000002e0" symbolType="graphic" lastModified="1545849205">
+  <timeline>
+    <DOMTimeline name="g">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-187 395S1[-118 445 -7 445!-7 445[87 445 151 409!151 409[215 374 245 314!245 314[274 253 274 108!274 108|274 -430!274 -430|177 -430!177 -430|177 -355!177 -355[105 -444 -5 -444!-5 -444[-87 -444 -148 -403!-148 -403[-210 -362 -242 -287
+!-242 -287[-274 -212 -274 -123!-274 -123[-274 7 -204 99!-204 99[-134 192 -5 192!-5 192[98 192 167 111!167 111[167 214 159 246!159 246[145 299 105 328!105 328[66 357 -8 357!-8 357[-76 357 -115 328!-115 328[-144 306 -151 259!-151 259|-253
+ 244!-253 244[-256 344 -187 395!-117 -300[-67 -357 3 -357!3 -357[74 -357 125 -299!125 -299[176 -241 176 -127!176 -127[176 -7 126 49!126 49[77 105 5 105!5 105[-69 105 -117 48!-117 48[-166 -8 -166 -130!-166 -130[-166 -243 -117 -300"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

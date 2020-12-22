@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="LipsyncScene" itemID="5e6fd93c-0000000d" lastModified="1584388952">
+  <timeline>
+    <DOMTimeline name="LipsyncScene">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#663399"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2519 -290|2520 -290!2520 -290|2520 290!2520 290|-2519 290!-2519 290|-2519 -290"/>
+                    <Edge cubics="!-2519 290(;-2519,290 -2519,-290 -2519,-290q-2519 290 -2519 -290);"/>
+                    <Edge cubics="!2520 -290(;2520,-290 2520,290 2520,290q2520 -290 2520 290);"/>
+                    <Edge cubics="!-2519 -290(;-2519,-290 2520,-290 2520,-290q-2519 -290 2520 -290);"/>
+                    <Edge cubics="!2520 290(;2520,290 -2519,290 -2519,290q2520 290 -2519 290);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText fontRenderingMode="standard" left="-16" width="243.95" height="20.85" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-96.95" ty="-10.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Lipsync w/ rhubarb</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="20.85" size="18" bitmapSize="360" face="ArialRoundedMTBold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

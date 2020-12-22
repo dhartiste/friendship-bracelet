@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Background" itemID="5c23c4b8-000002b0" symbolType="graphic" lastModified="1581538840">
+  <timeline>
+    <DOMTimeline name="Background">
+      <layers>
+        <DOMLayer name="bg" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="1624" objectHeight="750" x="94.05" y="82.05" selected="true" lockFlag="true">
+                  <matrix>
+                    <Matrix tx="-94.05" ty="-82.05"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#999999"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

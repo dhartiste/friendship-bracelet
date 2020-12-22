@@ -1,0 +1,139 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1536" height="768" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Macintosh" versionInfo="Saved by Animate Macintosh 18.0 build 126" majorVersion="18" buildNumber="126" guidesSnapTo="false" viewAngle3D="110.955592495494" vanishingPoint3DX="768" vanishingPoint3DY="384" nextSceneIdentifier="2" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="D30F8A0D-8234-44E1-9E30-EE48B415BE9D" filetypeName="PixiAnimate" fileGUID="ACC79270925F48F6B9A7B73C4B14D82F">
+     <folders>
+          <DOMFolderItem name="Lipsync" itemID="5e692271-000002d4"/>
+          <DOMFolderItem name="Lipsync/Child" itemID="5e692267-000002d0"/>
+          <DOMFolderItem name="Template" itemID="5e56f406-0000013c"/>
+          <DOMFolderItem name="UI" itemID="5e73d478-00000025"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="Lipsync/Child/Body" itemID="5e6924ba-00000377" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1583948986" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Lipsync/Child/Body.png" bitmapDataHRef="M 67 1583948914.dat" frameRight="4060" frameBottom="5000"/>
+          <DOMBitmapItem name="UI/ButtonShape1" itemID="5e6a4a32-000000d1" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1584024114" sourcePlatform="macintosh" externalFileSize="2403" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="UI/ButtonShape1.png" bitmapDataHRef="M 13 1584024114.dat" frameRight="2080" frameBottom="2080"/>
+          <DOMBitmapItem name="Lipsync/Child/Child1_Mouth_LipSync1" itemID="5e691f88-000002c5" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1583947656" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Lipsync/Child/Child1_Mouth_LipSync1.png" bitmapDataHRef="M 65 1583947656.dat" frameRight="600" frameBottom="140"/>
+          <DOMBitmapItem name="Lipsync/Child/Child1_Mouth_LipSync2" itemID="5e691f88-000002bc" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1583947656" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Lipsync/Child/Child1_Mouth_LipSync2.png" bitmapDataHRef="M 64 1583947656.dat" frameRight="960" frameBottom="420"/>
+          <DOMBitmapItem name="Lipsync/Child/Child1_Mouth_LipSync3" itemID="5e691f88-000002b3" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1583947656" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Lipsync/Child/Child1_Mouth_LipSync3.png" bitmapDataHRef="M 63 1583947656.dat" frameRight="780" frameBottom="380"/>
+          <DOMBitmapItem name="Lipsync/Child/Child1_Mouth_LipSync4" itemID="5e691f87-000002aa" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1583947655" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Lipsync/Child/Child1_Mouth_LipSync4.png" bitmapDataHRef="M 62 1583947655.dat" frameRight="840" frameBottom="520"/>
+          <DOMBitmapItem name="Lipsync/Child/Child1_Mouth_LipSync5" itemID="5e691f87-000002a1" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1583947655" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Lipsync/Child/Child1_Mouth_LipSync5.png" bitmapDataHRef="M 61 1583947655.dat" frameRight="440" frameBottom="600"/>
+          <DOMBitmapItem name="Lipsync/Child/Child1_Mouth_LipSync6" itemID="5e691f87-00000298" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1583947655" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Lipsync/Child/Child1_Mouth_LipSync6.png" bitmapDataHRef="M 60 1583947655.dat" frameRight="320" frameBottom="360"/>
+          <DOMBitmapItem name="Lipsync/Child/Child1_Mouth_LipSync7" itemID="5e691f87-0000028f" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1583947655" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Lipsync/Child/Child1_Mouth_LipSync7.png" bitmapDataHRef="M 59 1583947655.dat" frameRight="860" frameBottom="440"/>
+          <DOMBitmapItem name="Lipsync/Child/Child1_Mouth_LipSync8" itemID="5e691f86-00000286" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1583947654" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Lipsync/Child/Child1_Mouth_LipSync8.png" bitmapDataHRef="M 58 1583947654.dat" frameRight="840" frameBottom="280"/>
+          <DOMBitmapItem name="Lipsync/Child/Child1_Mouth_LipSync9" itemID="5e691f86-0000027d" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1583947654" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Lipsync/Child/Child1_Mouth_LipSync9.png" bitmapDataHRef="M 57 1583947654.dat" frameRight="440" frameBottom="220"/>
+          <DOMBitmapItem name="UI/HomeIcon1" itemID="5e6a4a05-000000b6" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1584024069" sourcePlatform="macintosh" externalFileSize="659" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="UI/HomeIcon1.png" bitmapDataHRef="M 11 1584024069.dat" frameRight="1020" frameBottom="900"/>
+          <DOMBitmapItem name="UI/PlayIcon1" itemID="5e6a4a28-000000c6" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1584024104" sourcePlatform="macintosh" externalFileSize="575" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="UI/PlayIcon1.png" bitmapDataHRef="M 12 1584024104.dat" frameRight="1000" frameBottom="1180"/>
+     </media>
+     <symbols>
+          <Include href="Lipsync/ButtonShape.xml" loadImmediate="false" itemID="5e691d49-0000010a" lastModified="1584024114"/>
+          <Include href="Lipsync/Child/Child1_Mouth_LipSync.xml" loadImmediate="false" itemID="5e56ba06-000005c2" lastModified="1583947665"/>
+          <Include href="Lipsync/HomeBtn.xml" loadImmediate="false" itemID="5e6a49c0-00000085" lastModified="1584024029"/>
+          <Include href="Lipsync/PlayBtn.xml" loadImmediate="false" itemID="5e692631-00000380" lastModified="1584024098"/>
+          <Include href="Lipsync/StopBtn.xml" loadImmediate="false" itemID="5e69262e-0000037f" lastModified="1583949358"/>
+          <Include href="Template/Button.xml" loadImmediate="false" itemID="5c242ce7-0000042f" lastModified="1545875163"/>
+          <Include href="Template/Eyes.xml" itemIcon="1" loadImmediate="false" itemID="5c2433c3-00000466" lastModified="1545876419"/>
+          <Include href="Template/Remote.xml" loadImmediate="false" itemID="5c242cb7-0000042a" lastModified="1545875115"/>
+          <Include href="Template/Screen.xml" loadImmediate="false" itemID="5c242f1c-00000441" lastModified="1545878894"/>
+          <Include href="Template/SomeGuy.xml" itemIcon="1" loadImmediate="false" itemID="5c243326-0000045a" lastModified="1545876578"/>
+          <Include href="Template/WhiteScreenBG.xml" itemIcon="1" loadImmediate="false" itemID="5c242fe3-0000044b" lastModified="1545875427"/>
+          <Include href="UI/HomeIcon.xml" loadImmediate="false" itemID="5e6a498f-00000078" lastModified="1584024069"/>
+          <Include href="UI/PlayIcon.xml" loadImmediate="false" itemID="5e6a4a22-000000b8" lastModified="1584024104"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="ui" color="#FF4FFF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Lipsync/PlayBtn" name="playBtn">
+                                             <matrix>
+                                                  <Matrix tx="754.65" ty="585.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Lipsync/StopBtn" name="stopBtn">
+                                             <matrix>
+                                                  <Matrix tx="915" ty="585.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMStaticText fontRenderingMode="standard" left="-18.8" width="181.6" height="60.65" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="691.2" ty="144.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Lipsync</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="60.65" size="43" bitmapSize="860" face="Arial-Black" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="Lipsync/HomeBtn" name="homeBtn">
+                                             <matrix>
+                                                  <Matrix tx="406.45" ty="90.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="mouth" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Lipsync/Child/Child1_Mouth_LipSync" name="mouth" selected="true">
+                                             <matrix>
+                                                  <Matrix a="-1" tx="762.95" ty="376"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="char" color="#FF800A" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Lipsync/Child/Body">
+                                             <matrix>
+                                                  <Matrix tx="658" ty="230"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="background" color="#FF0000" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMRectangleObject objectWidth="1536.05" objectHeight="768" x="5.15" y="2.6" lockFlag="true">
+                                             <matrix>
+                                                  <Matrix a="0.999969482421875" tx="-5.15" ty="-2.6"/>
+                                             </matrix>
+                                             <fill>
+                                                  <SolidColor color="#CCCCCC"/>
+                                             </fill>
+                                        </DOMRectangleObject>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <PrinterSettings platform="macintosh"/>
+     <publishHistory/>
+</DOMDocument>

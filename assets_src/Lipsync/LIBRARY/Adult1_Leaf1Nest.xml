@@ -1,0 +1,90 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Adult1_Leaf1Nest" itemID="5ca36f28-00000594" symbolType="graphic" lastModified="1554214696">
+  <timeline>
+    <DOMTimeline name="Adult1_Leaf1Nest">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Adult1_Leaf1" symbolType="graphic" loop="single frame">
+                  <transformationPoint>
+                    <Point x="17.85" y="21.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Adult1_Leaf1" symbolType="graphic" centerPoint3DX="-4.6" centerPoint3DY="4.8" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.9725341796875" b="-0.232666015625" c="0.232666015625" d="0.9725341796875" tx="-4.6" ty="4.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.85" y="21.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Adult1_Leaf1" symbolType="graphic" centerPoint3DX="-6.3" centerPoint3DY="7.35" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.941650390625" b="-0.3365478515625" c="0.3365478515625" d="0.941650390625" tx="-6.3" ty="7.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.85" y="21.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Adult1_Leaf1" symbolType="graphic" centerPoint3DX="-5.35" centerPoint3DY="5.95" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.96026611328125" b="-0.278976440429688" c="0.278976440429688" d="0.96026611328125" tx="-5.3" ty="5.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.8" y="21.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Adult1_Leaf1" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.9945068359375" b="-0.104522705078125" c="0.104522705078125" d="0.9945068359375" tx="-2.15" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.85" y="22"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Adult1_Leaf1" symbolType="graphic" loop="single frame">
+                  <transformationPoint>
+                    <Point x="17.85" y="21.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Adult1_Leaf1" symbolType="graphic" centerPoint3DX="1" centerPoint3DY="-0.7" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.99908447265625" b="0.0427703857421875" c="-0.0427703857421875" d="0.99908447265625" tx="1" ty="-0.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.85" y="21.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

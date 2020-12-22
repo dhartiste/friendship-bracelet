@@ -1,0 +1,68 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Button" itemID="5c242ce7-0000042f" lastModified="1545875163">
+  <timeline>
+    <DOMTimeline name="Button">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-503 3|501 3!501 3|501 229!501 229|-503 229!-503 229|-503 3"/>
+                  </edges>
+                </DOMShape>
+                <DOMOvalObject objectWidth="50.25" objectHeight="34.5" x="-165.5" y="-46.1" innerRadius="8" endAngle="0">
+                  <matrix>
+                    <Matrix tx="140.35" ty="38.75"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FF0000"/>
+                  </fill>
+                </DOMOvalObject>
+                <DOMOvalObject objectWidth="50.25" objectHeight="34.5" x="-165.5" y="-46.1" endAngle="0">
+                  <matrix>
+                    <Matrix tx="140.35" ty="28.85"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FF0000"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="0.5">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="50.25" objectHeight="34.5" x="-165.5" y="-46.1" endAngle="0">
+                  <matrix>
+                    <Matrix tx="140.35" ty="38.75"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FF0000"/>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

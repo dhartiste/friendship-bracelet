@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "outDir": "./deploy/",
+      "noImplicitAny": true,
+      "module": "commonjs",
+      "lib":["es2016", "dom"],
+      "target": "es5",
+      "allowJs": true
+    }
+  }

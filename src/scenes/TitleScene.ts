@@ -103,8 +103,8 @@ export default class TitleScene extends Scene {
 
     start() {
 
-        this.interactive = true;
-        this.interactiveChildren = true;
+         this.interactive = true;
+        // this.interactiveChildren = true;
         this.dragManager = new DragManager(this, this, new Rectangle(312, 0, 1000, 750) , this.onStartDrag, this.onEndDrag, this.onStickySelect);
         this.dragManager.addObject(this.vBlue);
         this.vBlue.x=400;
@@ -168,7 +168,7 @@ export default class TitleScene extends Scene {
 
             // kind of abrupt transition right now!
             // think of another way to end the round
-            this.changeScene('congratulation');
+            //this.changeScene('congratulation');
         }
     }
 

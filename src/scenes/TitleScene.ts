@@ -1,4 +1,7 @@
 import { Scene, AssetList, Tween } from 'wgbh-springroll-game';
+import { MovieClip } from 'pixi-animate';
+import { Rectangle, interaction } from 'pixi.js';
+import DragManager from '../helpers/DragManager';
 
 const NUM_LEVELS:number = 15;
 const UPPER_GUIDE:number = 125;
@@ -9,6 +12,9 @@ const LEVEL_OFFSET:number = 30;
 const BUTTON_OFFSET:number = 25;
 
 export default class TitleScene extends Scene {
+
+    private vBlue:PIXI.Sprite;
+    private dragManager:DragManager;
     
     private level1:PIXI.Sprite;
     private level2:PIXI.Sprite;
@@ -44,6 +50,9 @@ export default class TitleScene extends Scene {
         background.drawRect(0, 0, 1624, 750);
         background.endFill();
         this.addChild(background);
+
+        this.vBlue = new PIXI.Sprite(this.cache.images.v_blue);
+        this.addChild(this.vBlue);
 
         let n:number = -1;
         this.levels = [this.level1,this.level2,this.level3];
@@ -89,10 +98,17 @@ export default class TitleScene extends Scene {
         this.btnBlue.on("pointerdown",()=>{
             this.makeBraceletLevel(2);
         });
-        this.resize();
+        this.resize(this.stageManager.width,this.stageManager.height,this.stageManager.offset);
     }
 
     start() {
+
+        this.interactive = true;
+        this.interactiveChildren = true;
+        this.dragManager = new DragManager(this, this, new Rectangle(312, 0, 1000, 750) , this.onStartDrag, this.onEndDrag, this.onStickySelect);
+        this.dragManager.addObject(this.vBlue);
+        this.vBlue.x=400;
+
         let a:number = 0;
 
         this.allLevels.forEach((element, index) => {
@@ -106,6 +122,18 @@ export default class TitleScene extends Scene {
         this.btnYellow.interactive = true;
         this.btnBlue.buttonMode = true;
         this.btnBlue.interactive = true;
+    }
+
+    onStartDrag = (object:MovieClip) => {
+        //this.sound.play(SFX.pop);
+    }
+
+    onStickySelect = (object:MovieClip) => {
+        //object.filters = SELECTED_FILTERS;
+    }
+
+    onEndDrag = (object:MovieClip) => {
+       // object.filters = null;
     }
 
     // ----------------------------------------------------------
@@ -123,6 +151,7 @@ export default class TitleScene extends Scene {
             newLevel = new PIXI.Sprite(this.cache.images.v_blue);
         }
         this.addChild(newLevel);
+        this.dragManager.addObject(newLevel);
         newLevel.position = DESIGN_POS;
         newLevel.y += this.currentBraceletLevel*LEVEL_OFFSET;
 
@@ -147,7 +176,12 @@ export default class TitleScene extends Scene {
     // ****** END SOME FUNCTIONS <<<<<<<<<
     // ----------------------------------------------------------
 
-    resize(){
-       // todo - maybe we should move the buttons to have a left margin? hmm, how would we do that?
+    update(){
+        this.dragManager.update();
     }
+
+    resize(w:number,h:number,offset:PIXI.PointLike){
+        super.resize(w,h,offset);
+    }
+
 }

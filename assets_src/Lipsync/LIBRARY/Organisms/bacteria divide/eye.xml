@@ -1,0 +1,63 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Organisms/bacteria divide/eye" itemID="40572614-00002085" lastModified="1079449604">
+  <timeline>
+    <DOMTimeline name="eye">
+      <layers>
+        <DOMLayer name="Layer_1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <matrix>
+                    <Matrix tx="-161.95" ty="-119.45"/>
+                  </matrix>
+                  <members>
+                    <DOMShape selected="true">
+                      <matrix>
+                        <Matrix tx="-161.95" ty="-119.45"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FCF5AE"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!3413 2489S2[3413 2530 3388 2560!3388 2560[3362 2589 3326 2589!3326 2589[3290 2589 3265 2560!3265 2560[3239 2530 3239 2489!3239 2489[3239 2448 3265 2418!3265 2418[3290 2389 3326 2389!3326 2389[3362 2389 3388 2418!3388 2418[3413 2448 3413
+ 2489"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup selected="true">
+                  <matrix>
+                    <Matrix tx="-161.95" ty="-119.45"/>
+                  </matrix>
+                  <members>
+                    <DOMShape selected="true">
+                      <matrix>
+                        <Matrix tx="-161.95" ty="-119.45"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!3413 2489S4[3413 2530 3388 2560!3388 2560[3362 2589 3326 2589!3326 2589[3290 2589 3265 2560!3265 2560[3239 2530 3239 2489!3239 2489[3239 2448 3265 2418!3265 2418[3290 2389 3326 2389!3326 2389[3362 2389 3388 2418!3388 2418[3413 2448 3413
+ 2489"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

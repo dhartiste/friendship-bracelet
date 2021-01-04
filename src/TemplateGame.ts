@@ -13,6 +13,6 @@ export default class TemplateGame extends Game{
             lipsync: LipsyncScene,
             congratulation: CongratulationScene
         });
-        this.changeScene('title');
+        this.changeScene('lipsync');
     }
 }

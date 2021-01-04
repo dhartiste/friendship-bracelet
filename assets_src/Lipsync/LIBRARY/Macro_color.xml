@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Macro_color" itemID="5fe766b9-00000178" lastModified="1609000641">
+  <persistentData>
+    <PD n="copyLayersToBitmapScale" t="d" v="1.000000"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="Macro_color">
+      <layers>
+        <DOMLayer name="vectors" color="#9933CC" locked="true" autoNamed="false" visible="false" layerType="folder"/>
+        <DOMLayer name="Layer_1" color="#00FFFF" parentLayerIndex="0" locked="true" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#A5DEEC"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2767 754S2[2740 866 2601 1202!2601 1202[2532 1371 2620 1598!2620 1598[2629 1623 2703 1790!2703 1790[2755 1908 2776 1987!2776 1987[2872 2368 2828 2677!2828 2677[2774 3052 2514 3270!2514 3270[2339 3417 2048 3530!2048 3530[1958 3564 1537
+ 3697!1537 3697[1080 3830 830 3706!830 3706[698 3643 550 3484!550 3484[409 3336 333 3191!333 3191[189 2927 221 2580!221 2580[236 2409 351 1961!351 1961[425 1636 328 1311!328 1311[276 1140 63 714!63 714[-4 574 0 446!0 446[4 295 108 210
+!108 210|107 210!107 210[329 72 484 120!484 120[533 134 634 189!634 189[747 249 822 278!822 278[1041 361 1352 242!1352 242[1353 241 1609 132!1609 132[1764 65 1869 42!1869 42[2188 -19 2371 8!2371 8[2651 48 2750 286!2750 286[2830 498 2767
+ 754"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bitmap" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Macro_color1"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

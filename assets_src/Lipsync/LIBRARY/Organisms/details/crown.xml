@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Organisms/details/crown" itemID="4023cbf3-00004c22" lastModified="1076084214">
+  <timeline>
+    <DOMTimeline name="crown">
+      <layers>
+        <DOMLayer name="Layer_1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <matrix>
+                    <Matrix tx="15.4" ty="112.75"/>
+                  </matrix>
+                  <members>
+                    <DOMShape>
+                      <matrix>
+                        <Matrix tx="15.4" ty="112.75"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#F5D044"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!809 -3109|754 -1622!754 -1622|-679 -1404!-679 -1404|-1404 -1930!-1404 -1930|-1368 -1912!-1368 -1912|-1404 -2891!-1404 -2891|-679 -2275!-679 -2275|-135 -3055!-135 -3055|246 -2420!246 -2420|809 -3109"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <matrix>
+                    <Matrix tx="-398.45" ty="-207.15"/>
+                  </matrix>
+                  <members>
+                    <DOMShape>
+                      <matrix>
+                        <Matrix tx="-398.45" ty="-207.15"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!6843 3504|6877.5 4437!6877.5 4437[#1ACD.52 #1151.9B 6849 4451!6849 4451[6832 4476 6855 4493!6855 4493|7581 5018!7581 5018[7598 5031 7650 5022!7650 5022[7677 5017 7719 5006!7719 5006|9037 4806!9037 4806[9061 4802 9061 4779!9061 4779|9116
+ 3292!9116 3292[9117 3269 9096 3261!9096 3261[9075 3254 9061 3272!9061 3272|8527.5 3926!8527.5 3926|8170 3330!8170 3330[8161 3316 8145 3314!8145 3314[8128 3312 8118 3326!8118 3326|7592.5 4079.5!7592.5 4079.5|6890 3482!6890 3482[6878 3471
+ 6860 3480!6860 3480[6842 3488 6843 3504!8548 3995|9052.5 3376.5!9052.5 3376.5|9002 4750.5!9002 4750.5|7627 4959!7627 4959[#1DBD.2E #1361.7 7604.5 4961!7604.5 4961|6938.5 4478.5!6938.5 4478.5|6904.5 3573!6904.5 3573|7581 4148!7581 4148
+[7604 4167 7623 4141!7623 4141|8140.5 3399!8140.5 3399|8496 3991!8496 3991[8505 4006 8521 4008!8521 4008[8537 4009 8548 3995"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

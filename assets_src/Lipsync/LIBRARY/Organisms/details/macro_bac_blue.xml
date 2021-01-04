@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Organisms/details/macro_bac_blue" itemID="40757a98-000078df" lastModified="1087397386">
+  <timeline>
+    <DOMTimeline name="macro_bac_blue">
+      <layers>
+        <DOMLayer name="Layer_1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#A5DEEC"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!2766.5 754.5S2[#AB3.94 #363.18 2601 1203!2601 1203[#9E4.2E #55C.36 2619.5 1599!2619.5 1599[#A44.F9 #658.58 2703 1791!2703 1791[#AC2.83 #774.B1 2775.5 1988!2775.5 1988[#B38.68 #941.34 2828 2678!2828 2678[#AD5.EE #BED.32 2514 3270.5!2514
+ 3270.5[#922.92 #D59.F2 2048 3530.5!2048 3530.5[#7A6.3D #DED.66 1537 3698!1537 3698[#437.B1 #EF7.59 830 3706.5!830 3706.5[#2BA.79 #E3B.BA 549.5 3485!549.5 3485[#198.F9 #D08.C1 333 3192!333 3192[#BD.14 #B6F.B 220.5 2580.5!220.5 2580.5
+[#EC.36 #96A.62 350.5 1962!350.5 1962[#1A9.5C #665.6F 327.5 1312!327.5 1312[#114.2 #475.0B 62.5 714.5!62.5 714.5[#FFFFFC.5B #23E.D4 0 446.5!0 446.5[#4.47 #128.79 108 211!108 211|107 211!107 211[#148.A5 #49.48 484 120.5!484 120.5[#214.D4
+ #87.5F 634 189.5!634 189.5[#2EB.6 #F9.B3 821.5 278.5!821.5 278.5[#411.64 #16A.2 1352 242.5!1352 242.5[#548.B4 #F1.95 1609 132.5!1609 132.5[#6E3.9C #42.61 1868.5 43!1868.5 43[#88B.8A #FFFFED.03 2370.5 8!2370.5 8[#A5A.B8 #30.ED 2749.5
+ 287!2749.5 287[#B0D.87 #1F2.F1 2766.5 754.5"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MacroLeftSide" itemID="5fe77082-00000479" lastModified="1609003147">
+  <persistentData>
+    <PD n="copyLayersToBitmapScale" t="d" v="1.000000"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="MacroLeftSide">
+      <layers>
+        <DOMLayer name="vectors" color="#9933CC" locked="true" autoNamed="false" visible="false" layerType="folder"/>
+        <DOMLayer name="Layer_1" color="#00FFFF" parentLayerIndex="0" locked="true" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <matrix>
+                    <Matrix tx="69.8" ty="93.2"/>
+                  </matrix>
+                  <members>
+                    <DOMShape selected="true">
+                      <matrix>
+                        <Matrix tx="69.8" ty="93.2"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#A5DEEC"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!680 -1864S2|680 374.5!680 374.5[#2A2.96 #175.6F 668 373!668 373[653 378 636 380!636 380[623 382 611 383!611 383[#217.A1 #185.17 486.5 434!486.5 434[#1A2.5F #1CC.79 359 505!359 505[339 520 317 533!317 533[#139.2A #217.63 310 538!310 538
+[#129.2F #21F.37 286 553!286 553[270 567 254 579!254 579[#FC.06 #244.74 250 582!250 582[#D1.09 #260.67 160 627!160 627[#8D.5F #27A.19 133 645.5!133 645.5[#7F.38 #288.2F 122 653!122 653[#73.C7 #28C.8B 108 653!108 653[61 662 17 685!17 685
+[#5.05 #2B3.74 2.5 704.5!2.5 704.5[-16.921875 #2CB.1F -33 732!-33 732[#FFFFD6.CB #2E4.CC -51 747!-51 747[#FFFFC6.EA #2E7.C7 -67 741!-67 741[-124 765 -187 779!-187 779[#FFFF34.84 #30E.AA -213 791!-213 791[#FFFEF6.7A #31E.08 -318 810!-318
+ 810[#FFFEA6.D9 #330.2C -354.5 832!-354.5 832[#FFFE91.01 #33F.E -382 837!-382 837[#FFFE72.DA #349.C3 -412 848!-412 848[#FFFE5E.91 #34A.6B -426 837!-426 837[-486 867 -525 926!-525 926[#FFFDDB.0D #3C0.7C -519 977.5!-519 977.5[#FFFDFA.97
+ #3DB.89 -513 999!-513 999[#FFFE0E.BB #40D.EA -463.5 1060.5!-463.5 1060.5[#FFFE3B.F4 #43D.4B -407 1093!-407 1093[#FFFE78.92 #44F.C1 -374 1110!-374 1110[#FFFEA7.EC #483.54 -281 1164!-281 1164[#FFFEEC.26 #48C.92 -270.5 1164!-270.5 1164
+[#FFFEF5.A3 #48F.95 -258 1168!-258 1168[-181 1173 -104 1179!-104 1179[#FFFFAA.D1 #49B.F1 -77 1164!-77 1164[#FFFFF8.01 #48C.4 61 1138!61 1138[#3E.F4 #471.44 65 1136.5!65 1136.5[#4B.53 #477.0B 101 1138!101 1138[116 1135 132 1136!132 1136
+[204 1142 263 1109!263 1109[269 1106 274 1101!274 1101[#120.1E #441.EF 290 1081!290 1081[#145.A1 #437.0C 360.5 1068.5!360.5 1068.5[#183.79 #42B.C1 415 1062!415 1062[#1B5.3D #421.58 458.5 1049.5!458.5 1049.5[#200.1C #420.06 561 1018!561
+ 1018[585 1012 609 1010!609 1010[623 1009 631 1000!631 1000[#278.48 #3E6.9B 633.5 997.5!633.5 997.5[#291.0F #3DD.4C 680 977.5!680 977.5|680 1644!680 1644[#29A.24 #671.86 652 1655!652 1655[#232.3D #699.E9 141 1822.5!141 1822.5[#FFFEC3.B1
+ #7A3.D1 -566 1831!-566 1831[#FFFD46.79 #6E8.36 -846.5 1609.5!-846.5 1609.5[#FFFC24.F9 #5B5.4 -1063 1316.5!-1063 1316.5[#FFFB49.14 #41C.6D -1175.5 705.5!-1175.5 705.5[#FFFB78.36 #217.58 -1045.5 87!-1045.5 87[#FFFC35.5C #FFFF12.6E -1068.5
+ -563!-1068.5 -563[-1119.875 #FFFD22.42 -1333.5 -1160!-1333.5 -1160[#FFFA88.5B #FFFAEC.54 -1396 -1428!-1396 -1428[#FFFA90.47 #FFF9D5.FB -1288 -1663.5!-1288 -1663.5|-1289 -1663.5!-1289 -1663.5[#FFFBD4.A5 #FFF8F6.CE -912 -1754!-912 -1754
+[#FFFCA0.D4 -1739.125 -762 -1685!-762 -1685[-648.625 #FFF9A7.32 -574.5 -1596!-574.5 -1596[#FFFE9D.64 #FFFA17.99 -44 -1632!-44 -1632[-43.296875 #FFF99F.11 213 -1742!213 -1742[#16F.9C #FFF8EF.E3 472.5 -1831.5!472.5 -1831.5[#248.AA #FFF8C2.B6
+ 680 -1864"/>
+                        <Edge fillStyle0="1" edges="
+!198 1076S1[#C9.97 #433.4D 205 1074.5!205 1074.5[#CB.21 #432.11 201.5 1073.5!201.5 1073.5[#C7.F8 #432.C 198 1076"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bitmap" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="MacroLeftSide1"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

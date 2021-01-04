@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Macro_mouth" itemID="5fe765aa-00000171" lastModified="1609000362">
+  <timeline>
+    <DOMTimeline name="Macro_mouth">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <matrix>
+                    <Matrix a="0.872314453125" d="0.8720703125" tx="-320.15" ty="-279.55"/>
+                  </matrix>
+                  <members>
+                    <DOMShape selected="true">
+                      <matrix>
+                        <Matrix a="0.872314453125" d="0.8720703125" tx="-320.15" ty="-279.55"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!7745 6885S1[7627 6927 7452 6956!7452 6956[7446 6955 7438 6958!7438 6958[7425 6960 7419 6969!7419 6969[7310 7034 7350 7142!7350 7142[7384 7233 7501 7317!7501 7317[7615 7399 7783 7391!7783 7391[7814 7390 8080 7346!8080 7346[8414 7293 8673
+ 7208!8673 7208[9011 7097 9148 6924!9148 6924[9311 6718 9197 6560!9197 6560[9102 6430 8829 6412!8829 6412[8604 6398 8362 6544!8362 6544[8163 6670 8061 6730!8061 6730[7886 6833 7745 6885!7432 7175[7357 7070 7458 7015!7458 7015[7745 6972
+ 8001 6835!8001 6835[8171 6744 8497 6534!8497 6534[8650 6447 8888 6471!8888 6471[9155 6499 9184 6677!9184 6677[9201 6783 9100 6895!9100 6895[9024 6978 8908 7043!8908 7043[8724 7148 8371 7229!8371 7229[8220 7264 7904 7319!7904 7319[7714
+ 7354 7594 7305!7594 7305[7495 7265 7432 7175"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

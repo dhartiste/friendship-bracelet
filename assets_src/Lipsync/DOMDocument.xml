@@ -1,11 +1,27 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1536" height="768" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Macintosh" versionInfo="Saved by Animate Macintosh 18.0 build 126" majorVersion="18" buildNumber="126" guidesSnapTo="false" viewAngle3D="110.955592495494" vanishingPoint3DX="768" vanishingPoint3DY="384" nextSceneIdentifier="2" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="D30F8A0D-8234-44E1-9E30-EE48B415BE9D" filetypeName="PixiAnimate" fileGUID="ACC79270925F48F6B9A7B73C4B14D82F">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1536" height="768" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Macintosh" versionInfo="Saved by Animate Macintosh 20.0 build 22168" majorVersion="20" buildNumber="22168" guidesSnapTo="false" viewAngle3D="110.955592495494" vanishingPoint3DX="768" vanishingPoint3DY="384" nextSceneIdentifier="2" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="D30F8A0D-8234-44E1-9E30-EE48B415BE9D" filetypeName="PixiAnimate" fileGUID="ACC79270925F48F6B9A7B73C4B14D82F">
      <folders>
+          <DOMFolderItem name="Act 2 - admin" itemID="409a7305-00001cb6"/>
+          <DOMFolderItem name="Act 2 - admin/shapes" itemID="4047375e-0000f042"/>
           <DOMFolderItem name="Lipsync" itemID="5e692271-000002d4"/>
           <DOMFolderItem name="Lipsync/Child" itemID="5e692267-000002d0"/>
+          <DOMFolderItem name="Organisms" itemID="5fe76309-000000e8" isExpanded="true"/>
+          <DOMFolderItem name="Organisms/bacteria divide" itemID="4059867e-000004fc" isExpanded="true"/>
+          <DOMFolderItem name="Organisms/details" itemID="4023cc9e-00004ef0" isExpanded="true"/>
           <DOMFolderItem name="Template" itemID="5e56f406-0000013c"/>
+          <DOMFolderItem name="Tweens" itemID="5fe75a39-00000036" isExpanded="true"/>
           <DOMFolderItem name="UI" itemID="5e73d478-00000025"/>
      </folders>
      <media>
+          <DOMBitmapItem name="bacteria divide-antenae_single1" itemID="5fe76504-00000164" sourceExternalFilepath="Bitmap 11.png" sourceLastImported="1609000196" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bacteria divide-antenae_single1.png" bitmapDataHRef="M 24 1609000196.dat" frameRight="320" frameBottom="380" maxScaleUsed="0.59"/>
+          <DOMBitmapItem name="bacteria divide-body1" itemID="5fe76434-0000010d" sourceExternalFilepath="Bitmap 2.png" sourceLastImported="1608999988" sourcePlatform="macintosh" externalFileSize="2081" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bacteria divide-body1.png" bitmapDataHRef="M 15 1608999988.dat" frameRight="3660" frameBottom="1200" maxScaleUsed="0.59"/>
+          <DOMBitmapItem name="bacteria divide-eyelash1" itemID="5fe764fd-00000159" sourceExternalFilepath="Bitmap 10.png" sourceLastImported="1609000189" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bacteria divide-eyelash1.png" bitmapDataHRef="M 23 1609000189.dat" frameRight="500" frameBottom="360" maxScaleUsed="0.59"/>
+          <DOMBitmapItem name="bacteria divide-tail_clip1" itemID="5fe76494-0000014e" sourceExternalFilepath="Bitmap 9.png" sourceLastImported="1609000084" sourcePlatform="macintosh" externalFileSize="754" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bacteria divide-tail_clip1.png" bitmapDataHRef="M 22 1609000084.dat" frameRight="3100" frameBottom="560" maxScaleUsed="0.61"/>
+          <DOMBitmapItem name="bacteria divide-tail_clip10" itemID="5fe76494-0000013c" sourceExternalFilepath="Bitmap 7.png" sourceLastImported="1609000084" sourcePlatform="macintosh" externalFileSize="575" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bacteria divide-tail_clip10.png" bitmapDataHRef="M 20 1609000084.dat" frameRight="3320" frameBottom="320" maxScaleUsed="0.61"/>
+          <DOMBitmapItem name="bacteria divide-tail_clip15" itemID="5fe76493-00000133" sourceExternalFilepath="Bitmap 6.png" sourceLastImported="1609000083" sourcePlatform="macintosh" externalFileSize="723" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bacteria divide-tail_clip15.png" bitmapDataHRef="M 19 1609000083.dat" frameRight="3100" frameBottom="540" maxScaleUsed="0.61"/>
+          <DOMBitmapItem name="bacteria divide-tail_clip20" itemID="5fe76493-0000012a" sourceExternalFilepath="Bitmap 5.png" sourceLastImported="1609000083" sourcePlatform="macintosh" externalFileSize="703" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bacteria divide-tail_clip20.png" bitmapDataHRef="M 18 1609000083.dat" frameRight="3340" frameBottom="420" maxScaleUsed="0.61"/>
+          <DOMBitmapItem name="bacteria divide-tail_clip25" itemID="5fe76493-00000121" sourceExternalFilepath="Bitmap 4.png" sourceLastImported="1609000083" sourcePlatform="macintosh" externalFileSize="749" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bacteria divide-tail_clip25.png" bitmapDataHRef="M 17 1609000083.dat" frameRight="3220" frameBottom="500" maxScaleUsed="0.61"/>
+          <DOMBitmapItem name="bacteria divide-tail_clip30" itemID="5fe76493-00000118" sourceExternalFilepath="Bitmap 3.png" sourceLastImported="1609000083" sourcePlatform="macintosh" externalFileSize="754" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bacteria divide-tail_clip30.png" bitmapDataHRef="M 16 1609000083.dat" frameRight="3100" frameBottom="560" maxScaleUsed="0.61"/>
+          <DOMBitmapItem name="bacteria divide-tail_clip5" itemID="5fe76494-00000145" sourceExternalFilepath="Bitmap 8.png" sourceLastImported="1609000084" sourcePlatform="macintosh" externalFileSize="716" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bacteria divide-tail_clip5.png" bitmapDataHRef="M 21 1609000084.dat" frameRight="3220" frameBottom="440" maxScaleUsed="0.61"/>
           <DOMBitmapItem name="Lipsync/Child/Body" itemID="5e6924ba-00000377" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1583948986" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Lipsync/Child/Body.png" bitmapDataHRef="M 67 1583948914.dat" frameRight="4060" frameBottom="5000"/>
           <DOMBitmapItem name="UI/ButtonShape1" itemID="5e6a4a32-000000d1" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1584024114" sourcePlatform="macintosh" externalFileSize="2403" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="UI/ButtonShape1.png" bitmapDataHRef="M 13 1584024114.dat" frameRight="2080" frameBottom="2080"/>
           <DOMBitmapItem name="Lipsync/Child/Child1_Mouth_LipSync1" itemID="5e691f88-000002c5" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1583947656" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Lipsync/Child/Child1_Mouth_LipSync1.png" bitmapDataHRef="M 65 1583947656.dat" frameRight="600" frameBottom="140"/>
@@ -17,27 +33,96 @@
           <DOMBitmapItem name="Lipsync/Child/Child1_Mouth_LipSync7" itemID="5e691f87-0000028f" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1583947655" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Lipsync/Child/Child1_Mouth_LipSync7.png" bitmapDataHRef="M 59 1583947655.dat" frameRight="860" frameBottom="440"/>
           <DOMBitmapItem name="Lipsync/Child/Child1_Mouth_LipSync8" itemID="5e691f86-00000286" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1583947654" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Lipsync/Child/Child1_Mouth_LipSync8.png" bitmapDataHRef="M 58 1583947654.dat" frameRight="840" frameBottom="280"/>
           <DOMBitmapItem name="Lipsync/Child/Child1_Mouth_LipSync9" itemID="5e691f86-0000027d" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1583947654" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Lipsync/Child/Child1_Mouth_LipSync9.png" bitmapDataHRef="M 57 1583947654.dat" frameRight="440" frameBottom="220"/>
+          <DOMBitmapItem name="details-mac_baceyebrows1" itemID="5fe7654c-0000016f" sourceExternalFilepath="Bitmap 12.png" sourceLastImported="1609000268" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="details-mac_baceyebrows1.png" bitmapDataHRef="M 25 1609000268.dat" frameRight="1720" frameBottom="620"/>
           <DOMBitmapItem name="UI/HomeIcon1" itemID="5e6a4a05-000000b6" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1584024069" sourcePlatform="macintosh" externalFileSize="659" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="UI/HomeIcon1.png" bitmapDataHRef="M 11 1584024069.dat" frameRight="1020" frameBottom="900"/>
+          <DOMBitmapItem name="Macro_color1" itemID="5fe766c1-00000185" sourceExternalFilepath="Bitmap 13.png" sourceLastImported="1609000641" sourcePlatform="macintosh" externalFileSize="2949" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Macro_color1.png" bitmapDataHRef="M 26 1609000641.dat" frameRight="2840" frameBottom="3760"/>
+          <DOMBitmapItem name="MacroLeftSide1" itemID="5fe7708b-00000487" sourceExternalFilepath="Bitmap 38.png" sourceLastImported="1609003147" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="MacroLeftSide1.png" bitmapDataHRef="M 51 1609003147.dat" frameRight="2080" frameBottom="3760"/>
           <DOMBitmapItem name="UI/PlayIcon1" itemID="5e6a4a28-000000c6" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1584024104" sourcePlatform="macintosh" externalFileSize="575" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="UI/PlayIcon1.png" bitmapDataHRef="M 12 1584024104.dat" frameRight="1000" frameBottom="1180"/>
      </media>
      <symbols>
+          <Include href="Act 2 - admin/shapes/hitmesquare.xml" loadImmediate="false" itemID="4076cb7d-00005a5a" lastModified="1091228160"/>
           <Include href="Lipsync/ButtonShape.xml" loadImmediate="false" itemID="5e691d49-0000010a" lastModified="1584024114"/>
           <Include href="Lipsync/Child/Child1_Mouth_LipSync.xml" loadImmediate="false" itemID="5e56ba06-000005c2" lastModified="1583947665"/>
           <Include href="Lipsync/HomeBtn.xml" loadImmediate="false" itemID="5e6a49c0-00000085" lastModified="1584024029"/>
           <Include href="Lipsync/PlayBtn.xml" loadImmediate="false" itemID="5e692631-00000380" lastModified="1584024098"/>
           <Include href="Lipsync/StopBtn.xml" loadImmediate="false" itemID="5e69262e-0000037f" lastModified="1583949358"/>
+          <Include href="Macro_color.xml" loadImmediate="false" itemID="5fe766b9-00000178" lastModified="1609000641"/>
+          <Include href="Macro_mouth.xml" loadImmediate="false" itemID="5fe765aa-00000171" lastModified="1609000362"/>
+          <Include href="MacroLeftSide.xml" loadImmediate="false" itemID="5fe77082-00000479" lastModified="1609003147"/>
+          <Include href="Organisms/bacteria_simple.xml" loadImmediate="false" itemID="40d07321-00008f82" lastModified="1091228160"/>
+          <Include href="Organisms/bacteria divide/antenae_single.xml" loadImmediate="false" itemID="40572764-00002675" lastModified="1609000203"/>
+          <Include href="Organisms/bacteria divide/body.xml" loadImmediate="false" itemID="40572573-00001e67" lastModified="1608999988"/>
+          <Include href="Organisms/bacteria divide/eye.xml" loadImmediate="false" itemID="40572614-00002085" lastModified="1079449604"/>
+          <Include href="Organisms/bacteria divide/eyelash.xml" loadImmediate="false" itemID="4057261c-000020b3" lastModified="1609000193"/>
+          <Include href="Organisms/bacteria divide/tail_clip.xml" loadImmediate="false" itemID="40581d78-00000731" lastModified="1609000084"/>
+          <Include href="Organisms/details/crown.xml" loadImmediate="false" itemID="4023cbf3-00004c22" lastModified="1076084214"/>
+          <Include href="Organisms/details/hittestie.xml" itemIcon="0" loadImmediate="false" itemID="4048cb38-00019e70" lastModified="1078508840"/>
+          <Include href="Organisms/details/mac_baceyebrows.xml" loadImmediate="false" itemID="40757b3b-00007bcf" lastModified="1609000268"/>
+          <Include href="Organisms/details/macro_bac_blue.xml" loadImmediate="false" itemID="40757a98-000078df" lastModified="1087397386"/>
+          <Include href="Organisms/macro_bacteria.xml" itemID="4023cc85-00004ed5" lastModified="1609003138"/>
+          <Include href="Square.xml" loadImmediate="false" itemID="5fe75a97-0000004e" lastModified="1608997527"/>
           <Include href="Template/Button.xml" loadImmediate="false" itemID="5c242ce7-0000042f" lastModified="1545875163"/>
           <Include href="Template/Eyes.xml" itemIcon="1" loadImmediate="false" itemID="5c2433c3-00000466" lastModified="1545876419"/>
           <Include href="Template/Remote.xml" loadImmediate="false" itemID="5c242cb7-0000042a" lastModified="1545875115"/>
           <Include href="Template/Screen.xml" loadImmediate="false" itemID="5c242f1c-00000441" lastModified="1545878894"/>
           <Include href="Template/SomeGuy.xml" itemIcon="1" loadImmediate="false" itemID="5c243326-0000045a" lastModified="1545876578"/>
           <Include href="Template/WhiteScreenBG.xml" itemIcon="1" loadImmediate="false" itemID="5c242fe3-0000044b" lastModified="1545875427"/>
+          <Include href="Tweens/MotionTween.xml" loadImmediate="false" itemID="5fe75a31-00000032" lastModified="1608998606"/>
+          <Include href="Tweens/ShapeTween.xml" loadImmediate="false" itemID="5fe758da-00000025" lastModified="1608997919"/>
           <Include href="UI/HomeIcon.xml" loadImmediate="false" itemID="5e6a498f-00000078" lastModified="1584024069"/>
           <Include href="UI/PlayIcon.xml" loadImmediate="false" itemID="5e6a4a22-000000b8" lastModified="1584024104"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1">
                <layers>
+                    <DOMLayer name="shape" color="#FF800A" autoNamed="false" visible="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Tweens/ShapeTween" name="xxxShape" selected="true">
+                                             <matrix>
+                                                  <Matrix tx="228.45" ty="278.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Macro" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Organisms/macro_bacteria" selected="true">
+                                             <matrix>
+                                                  <Matrix tx="457.9" ty="339.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="motion" color="#9933CC" autoNamed="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Tweens/MotionTween">
+                                             <matrix>
+                                                  <Matrix tx="228.45" ty="278.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
                     <DOMLayer name="ui" color="#FF4FFF" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
@@ -83,11 +168,11 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="mouth" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="mouth" color="#9933CC" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="Lipsync/Child/Child1_Mouth_LipSync" name="mouth" selected="true">
+                                        <DOMSymbolInstance libraryItemName="Lipsync/Child/Child1_Mouth_LipSync" name="mouth">
                                              <matrix>
                                                   <Matrix a="-1" tx="762.95" ty="376"/>
                                              </matrix>

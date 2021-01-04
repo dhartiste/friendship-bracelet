@@ -2,7 +2,7 @@
   <timeline>
     <DOMTimeline name="HomeBtn">
       <layers>
-        <DOMLayer name="icon" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="icon" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -18,7 +18,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="gfx" color="#00FFFF" autoNamed="false">
+        <DOMLayer name="gfx" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

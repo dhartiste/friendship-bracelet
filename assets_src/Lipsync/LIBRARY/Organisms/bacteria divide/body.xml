@@ -1,0 +1,109 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Organisms/bacteria divide/body" itemID="40572573-00001e67" lastModified="1608999988">
+  <persistentData>
+    <PD n="copyLayersToBitmapScale" t="d" v="1.000000"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="body">
+      <layers>
+        <DOMLayer name="vectors" color="#9933CC" locked="true" autoNamed="false" visible="false" layerType="folder"/>
+        <DOMLayer name="Layer_1" color="#4FFF4F" parentLayerIndex="0" locked="true" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <matrix>
+                    <Matrix tx="-131.6" ty="-108.45"/>
+                  </matrix>
+                  <members>
+                    <DOMShape>
+                      <matrix>
+                        <Matrix tx="-131.6" ty="-108.45"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FAA781"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!4511 3281[5077 3319 5664 3307!5664 3307[5937 3299 6076 3203!6076 3203[6244 3085 6256 2817!6256 2817|6254 2820!6254 2820[6271 2491 5931 2344!5931 2344[5689 2239 5314 2239!5314 2239[4546 2214 4170 2205!4170 2205[3639 2191 3619 2191!3619
+ 2191[3286 2197 3094 2273!3094 2273[2870 2364 2744 2522!2744 2522[2583 2722 2726 2905!2726 2905[2907 3142 3521 3204!3521 3204[3845 3247 4511 3281"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <matrix>
+                    <Matrix tx="-131.6" ty="-108.15"/>
+                  </matrix>
+                  <members>
+                    <DOMShape>
+                      <matrix>
+                        <Matrix tx="-131.6" ty="-108.15"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!3700 2218[3710 2218 4109 2233!4109 2233[4413 2244 5021 2261!5021 2261[5120 2264 5379 2270!5379 2270[5617 2281 5778 2322!5778 2322[6236 2436 6224 2817!6224 2817[#184F.C9 #B07.47 6225 2828.5!6225 2828.5[#1835.34 #C74.6 5853 3258!5853 3258
+[5757 3278 5468 3280!5468 3280[5198 3282 4952 3273!4952 3273[4746 3267 3980 3217!3980 3217[3430 3180 3169 3116!3169 3116[2954 3063 2823 2961!2823 2961[2643 2820 2709 2637!2709 2637[2764 2485 2952 2375!2952 2375[3105 2285 3294 2249!3294
+ 2249[3465 2216 3700 2218!4167 3288[4959 3335 5224 3339!5224 3339[5350 3341 5615 3344!5615 3344[5844 3337 5998 3278!5998 3278[6264 3176 6286 2820!6286 2820[#188E.B8 #AF9.8F 6283.5 2802.5!6283.5 2802.5[#188A.D3 #9F9.D4 6083 2403!6083 2403
+[5916 2276 5628 2231!5628 2231[5491 2210 5291 2205!5291 2205[5065 2203 4953 2199!4953 2199[4149 2175 4054 2171!4054 2171[3553 2152 3354 2181!3354 2181[2962 2238 2741 2480!2741 2480[2643 2587 2636 2709!2636 2709[2629 2833 2719 2944!2719
+ 2944[2859 3116 3265 3198!3265 3198[3521 3249 4167 3288"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FAA781"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!3619 662S1[3636 333 3296 186!3296 186[3054 81 2679 81!2679 81[1911 56 1535 47!1535 47[1004 33 984 33!984 33[651 39 459 115!459 115[235 206 109 364!109 364[-52 564 91 747!91 747[272 984 886 1046!886 1046[1210 1089 1876 1123!1876 1123
+[2442 1161 3029 1149!3029 1149[3302 1141 3441 1045!3441 1045[3609 927 3621 659!3621 659|3619 662"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!3648.5 650.5[#E3F.D3 #191.D4 3448 251!3448 251[3281 124 2993 79!2993 79[2856 58 2656 53!2656 53[2430 51 2318 47!2318 47[1514 23 1419 19!1419 19[918 0 719 29!719 29[327 86 106 328!106 328[8 435 1 557!1 557[-6 681 84 792!84 792[224 964
+ 630 1046!630 1046[886 1097 1532 1136!1532 1136[2324 1183 2589 1187!2589 1187[2715 1189 2980 1192!2980 1192[3209 1185 3363 1126!3363 1126[3629 1024 3651 668!3651 668[#E43.B8 #291.8F 3648.5 650.5!3590 676.5[#DEA.34 #40C.6 3218 1106!3218
+ 1106[3122 1126 2833 1128!2833 1128[2563 1130 2317 1121!2317 1121[2111 1115 1345 1065!1345 1065[795 1028 534 964!534 964[319 911 188 809!188 809[8 668 74 485!74 485[129 333 317 223!317 223[470 133 659 97!659 97[830 64 1065 66!1065 66
+[1075 66 1474 81!1474 81[1778 92 2386 109!2386 109[2485 112 2744 118!2744 118[2982 129 3143 170!3143 170[3601 284 3589 665!3589 665[#E04.C9 #29F.47 3590 676.5"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bitmap" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bacteria divide-body1"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,138 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Organisms/bacteria_simple" itemID="40d07321-00008f82" lastModified="1091228160" lastUniqueIdentifier="12">
+  <timeline>
+    <DOMTimeline name="bacteria_simple">
+      <layers>
+        <DOMLayer name="Layer_1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Organisms/bacteria divide/body" name="body">
+                  <matrix>
+                    <Matrix a="0.5933837890625" d="0.53741455078125" tx="1.55" ty="9.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="91.35" y="29.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Organisms/bacteria divide/tail_clip">
+                  <matrix>
+                    <Matrix a="0.5933837890625" d="0.53741455078125" tx="109.2" ty="28.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="70.25" y="14.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Organisms/bacteria divide/eye">
+                  <matrix>
+                    <Matrix a="0.5933837890625" d="0.53741455078125" tx="20.4" ty="16"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.4" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Organisms/bacteria divide/eyelash">
+                  <matrix>
+                    <Matrix a="0.5933837890625" d="0.53741455078125" tx="17.95" ty="14.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.55" y="7.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <matrix>
+                    <Matrix a="0.5933837890625" d="0.53741455078125" tx="-76.2" ty="-48.05"/>
+                  </matrix>
+                  <members>
+                    <DOMShape>
+                      <matrix>
+                        <Matrix a="0.5933837890625" d="0.53741455078125" tx="-76.2" ty="-48.05"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!3257 2853[3172 2927 3140 2946!3140 2946[3085 2980 3074 2983!3074 2983[3039 2993 3032 2942!3032 2942[3025 2892 2981 2855!2981 2855[2914 2800 2780 2895!2780 2895[2757 2912 2776 2935!2776 2935[2796 2958 2819 2941!2819 2941[2955 2846 2973
+ 2952!2973 2952[2980 2992 2988 3016!2988 3016[3003 3059 3059 3055!3059 3055[3089 3054 3202 2978!3202 2978[3260 2938 3296 2907!3296 2907[3398 2819 3402 3023!3402 3023[3403 3040 3416 3050!3416 3050[3429 3060 3445 3052!3445 3052[3486 3033
+ 3544 2971!3544 2971[3577 2935 3606 2957!3606 2957[3606 2958 3650 3011!3650 3011[3675 3043 3720 3035!3720 3035[3735 3033 3769 3012!3769 3012[3825 2978 3890 3036!3890 3036[3912 3055 3929 3030!3929 3030[3946 3006 3924 2987!3924 2987[3858
+ 2927 3794 2934!3794 2934[3780 2935 3722 2971!3722 2971[3702 2983 3683 2955!3683 2955[3666 2921 3660 2913!3660 2913[3611 2847 3535 2903!3535 2903[3490 2947 3460 2971!3460 2971[3448 2835 3392 2814!3392 2814[3339 2794 3257 2853"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="Organisms/bacteria divide/antenae_single" name="ant7" selected="true">
+                  <matrix>
+                    <Matrix a="0.5933837890625" d="0.53741455078125" tx="88.5" ty="2.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.9" y="8.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Organisms/bacteria divide/antenae_single" name="ant6">
+                  <matrix>
+                    <Matrix a="0.587326049804688" b="-0.074859619140625" c="0.0826416015625" d="0.53192138671875" tx="75.2" ty="1.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.95" y="8.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Organisms/bacteria divide/antenae_single" name="ant5">
+                  <matrix>
+                    <Matrix a="0.587326049804688" b="-0.074859619140625" c="0.0826416015625" d="0.53192138671875" tx="63.65" ty="1.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.95" y="8.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Organisms/bacteria divide/antenae_single" name="ant3">
+                  <matrix>
+                    <Matrix a="0.586822509765625" b="-0.0706024169921875" c="0.0779571533203125" d="0.531478881835938" tx="39.6" ty="1.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.15" y="8.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Organisms/bacteria divide/antenae_single" name="ant2">
+                  <matrix>
+                    <Matrix a="0.584823608398438" b="-0.0892333984375" c="0.0985260009765625" d="0.5296630859375" tx="27.45" ty="1.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7" y="8.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Organisms/bacteria divide/antenae_single" name="ant1">
+                  <matrix>
+                    <Matrix a="0.563568115234375" b="-0.166549682617188" c="0.18389892578125" d="0.510421752929688" tx="14.8" ty="2.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.9" y="8.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Organisms/bacteria divide/antenae_single" name="ant4">
+                  <matrix>
+                    <Matrix a="0.588653564453125" b="-0.0659637451171875" c="0.07281494140625" d="0.53314208984375" tx="51.85" ty="1.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7" y="8.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Act 2 - admin/shapes/hitmesquare" name="hittestie">
+                  <matrix>
+                    <Matrix a="3.59416198730469" d="1.1142578125" tx="56.55" ty="26.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="0.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

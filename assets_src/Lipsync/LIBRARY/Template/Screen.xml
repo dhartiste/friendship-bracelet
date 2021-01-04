@@ -97,7 +97,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="white" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="white" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" duration="19" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
@@ -185,7 +185,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="black" color="#00FFFF" locked="true" autoNamed="false">
+        <DOMLayer name="black" color="#00FFFF" locked="true" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" duration="123" keyMode="9728">
               <elements>
